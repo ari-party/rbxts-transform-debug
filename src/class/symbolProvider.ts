@@ -116,5 +116,5 @@ export class SymbolProvider {
 	}
 
 	private typesDir = this.resolveModuleDir("@rbxts/types")!;
-	private debugDir = this.resolveModuleDir("rbxts-transform-debug")!;
+	private debugDir = this.resolveModuleDir("@ari-party/rbxts-transform-debug")!;
 }

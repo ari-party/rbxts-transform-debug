@@ -1,11 +1,11 @@
-# rbxts-transform-debug
+# @ari-party/rbxts-transform-debug
 A debugging transformer for roblox-ts. Contains helper functions for debugging roblox-ts code with debug information attached.
 
 ## How it works
 
 Say we have this example code:
 ```ts
-import { $dbg, $print } from "rbxts-transform-debug";
+import { $dbg, $print } from "@ari-party/rbxts-transform-debug";
 
 export function makeHello(name: string) {
 	return $dbg(`Hello from ${name}!`);

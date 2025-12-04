@@ -5,7 +5,7 @@ import { PackageJson } from "types-package-json";
  *
  * If you're referencing this in your code, import it as:
  * ```ts
- * import type { $DebugInfo } from "rbxts-transform-debug";
+ * import type { $DebugInfo } from "@ari-party/rbxts-transform-debug";
  * ```
  * to get around the import stripping
  */

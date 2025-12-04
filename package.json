@@ -1,6 +1,6 @@
 {
 	"name": "@ari-party/rbxts-transform-debug",
-	"version": "2.2.0",
+	"version": "2.2.1",
 	"description": "Transformer for debugging things in roblox-ts",
 	"main": "out/index.js",
 	"scripts": {
